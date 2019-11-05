@@ -10,11 +10,7 @@ namespace week7ex8
     {
         static void Main(string[] args)
         {
-            /*
-            Publisher mypublisher = new Publisher("Lars", "Larsen", title.Sir);
-            Console.WriteLine($"Name is {mypublisher.getTitle()} {mypublisher.FirstName} {mypublisher.LastName}");
-            Console.ReadKey();
-            */
+           
         }
     }
 }
