@@ -10,7 +10,7 @@ namespace week7ex8
     {
         static void Main(string[] args)
         {
-           
+            Publisher[] publishers = new Publisher[] { };
         }
     }
 }
