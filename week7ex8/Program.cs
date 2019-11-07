@@ -26,8 +26,10 @@ namespace week7ex8
                     Console.WriteLine($"Mail of Author : {author.Email}");
                     Console.WriteLine($"Adress of author : {author.Adress}");
                 }
-                Console.WriteLine("\n ******************* \n");
+                Console.WriteLine("\n ******************* \n ");
             }
+
+            Console.WriteLine("End of booklist \n\n ******************* \n");
 
             Console.ReadKey();
         }
